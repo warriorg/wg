@@ -1,4 +1,4 @@
-package alg
+package slidingwindow
 
 import (
 	"errors"
